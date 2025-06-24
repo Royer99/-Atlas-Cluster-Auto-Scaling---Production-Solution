@@ -1,1 +1,1 @@
-# -Atlas-Cluster-Auto-Scaling---Production-Solution
+# Atlas-Cluster-Auto-Scaling---Production-Solution
